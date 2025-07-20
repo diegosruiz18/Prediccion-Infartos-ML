@@ -2,7 +2,7 @@
 
 📌 Also available in [Spanish](README.es.md) | 📌 Disponible también en [Español](README.es.md)
 
-This project applies **Machine Learning techniques** to predict the probability of a person experiencing a heart attack, based on real medical data.
+This project applies **Machine Learning techniques** to predict the probability of a person experiencing a heart attack, based on medical data.
 
 💻 Built using Python, Gradio, scikit-learn, pandas, numpy, matplotlib.
 

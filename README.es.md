@@ -2,7 +2,7 @@
 
 📌 Disponible también en [Inglés](README.md) | 📌 Also available in [English](README.md)
 
-Este proyecto aplica **técnicas de Machine Learning** para predecir la probabilidad de que una persona sufra un ataque cardiaco, utilizando datos médicos reales.
+Este proyecto aplica **técnicas de Machine Learning** para predecir la probabilidad de que una persona sufra un ataque cardiaco, utilizando datos médicos.
 
 💻 Desarrollado con Python, Gradio, scikit-learn, pandas, numpy, matplotlib.
 
